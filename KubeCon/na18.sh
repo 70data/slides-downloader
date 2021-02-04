@@ -5,4 +5,4 @@
 DAYS=("2018-12-10" "2018-12-11" "2018-12-12" "2018-12-13")
 EVENT=kccna18
 
-source ./downloader.sh
+source ../downloader.sh

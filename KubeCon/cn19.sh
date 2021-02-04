@@ -5,4 +5,4 @@
 DAYS=("2019-06-24" "2019-06-25" "2019-06-26")
 EVENT=kccncosschn19eng
 
-source ./downloader.sh
+source ../downloader.sh
